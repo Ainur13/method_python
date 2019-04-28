@@ -1,0 +1,6 @@
+Aidana 5 5 5 4 5 5
+Bekarys 4 4 3 3 4 5
+Gulden 3 4 5 3 4 5
+Kasym 4 4 5 4 4 5
+Aigerim 4 3 4 4 4 4
+Bolat 2 3 3 4 3 3
